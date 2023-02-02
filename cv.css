@@ -1,0 +1,37 @@
+body{
+    background-color: #cccccc;
+}
+#cv{ 
+    width: 780px;
+    margin: auto;
+    border: 5px solid #3388BB;
+    border-radius: 10px;
+    background-color: white;
+    padding: 40px;
+}
+.photo{
+    float: right;
+}
+.info{
+    float: left;
+}
+.infophoto{
+    height:250px;
+}
+h2{
+    text-transform: uppercase;
+    font-size: 28px;
+    color:#3388BB;
+    border-bottom: 3px solid #3388DD;
+}
+.section:hover{
+    color:#3388BB;
+}
+.duree{  font-weight: normal;
+         font-style:italic; 
+         font-size: 16px; } 
+
+.titre{  font-weight: bold;
+         font-size: 18px; } 
+ 
+strong{  font-size: 26px; }
